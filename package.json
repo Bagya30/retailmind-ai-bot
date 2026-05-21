@@ -1,0 +1,11 @@
+{
+  "name": "retailmind-ai-bot",
+  "version": "1.0.0",
+  "description": "RetailMind — AI-Powered Customer Care Bot built with Claude API",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
